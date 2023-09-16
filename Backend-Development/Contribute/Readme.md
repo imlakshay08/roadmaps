@@ -16,6 +16,7 @@
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [Open Roberta Lab](https://github.com/OpenRoberta/openroberta-lab)
 - [OpenSIPS](https://github.com/OpenSIPS/opensips)
+- [openverse](https://github.com/WordPress/openverse)
 - [PEcAn Project](https://github.com/PecanProject/pecan)
 - [PocketBase](https://github.com/pocketbase/pocketbase)
 - [Postman](https://github.com/postmanlabs/postman-runtime)
@@ -26,3 +27,4 @@
 - [webpack](https://github.com/webpack/webpack)
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [Xi Editor Projects](https://github.com/xi-editor/xi-editor)
+- [Fastify](https://github.com/fastify/fastify)

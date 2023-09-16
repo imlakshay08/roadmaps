@@ -2,7 +2,7 @@
 
 ## What is Open Source
 
-- [What is Open Source & How to Start? - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=msyGybzCKRs)
+- [What is Open Source & How to Start? - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=msyGybzCKRs)
 - [What is open source - Mozilla (Youtube)](https://www.youtube.com/watch?v=7c0IrsDsNaw)
 - [What is open source? - opensource.com](https://opensource.com/resources/what-open-source)
 - [What is open source? - RedHat](https://www.redhat.com/en/topics/open-source/what-is-open-source)
@@ -38,13 +38,13 @@
 - [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
 - [How to Understand Large Codebases in Open Source](https://www.youtube.com/watch?v=kA1T0zDPtQo)
 - [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
+- [How to Get Involved in Global Communities. Step by Step Process](https://www.youtube.com/watch?v=_tbr9IzXvxY&t=42s)
 
 ## Open source programs students/working professionals
-
 ### 25+ paid open source programs and internships
 
 - [25+ paid open source programs and internships - WeMakeDevs](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
-- [25+ paid open source programs and internships - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=x4hsV_q_YQc)
+- [25+ paid open source programs and internships - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=x4hsV_q_YQc)
 
 ## Learning open source values & ethics
 

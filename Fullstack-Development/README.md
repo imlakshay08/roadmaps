@@ -14,11 +14,14 @@
 - [Learn Typescript - FreeCodeCamp](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 - [Learn Typescript - FreeCodeCamp(Youtube)](https://youtu.be/gp5H0Vw39yw)
 - [Typescript documentation](https://www.typescriptlang.org/docs/)
+- [Practice Typescript - exercism](https://exercism.org/tracks/typescript)
+- [TypeScript – Full Tutorial(Youtube)](https://www.youtube.com/watch?v=30LWjhZzg50)
 
 ### Typescript tutorials
 - [Typescript Tutorial - Programming with mosh(Youtube)](https://youtu.be/d56mG7DezGs)
 - [Typescript Tutorial - TutorialsPoint](https://www.tutorialspoint.com/typescript/index.htm)
 - [Typescript Tutorial - The Net Ninja(Youtube)](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [Typescript Tutorial - Dave Gray(Youtube)](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
 
 ## Learning GraphQL
 
@@ -96,5 +99,6 @@
 ## Sample projects for practice
 
 - [Build and deploy a modern social media app - JavaScript Mastery(Youtube)](https://www.youtube.com/watch?v=1RHDhtbqo94)
+- [Build and deploy a modern netflix clone - Lama Dev(Youtube)](https://www.youtube.com/playlist?list=PLj-4DlPRT48k8TZ2ZjzbjnAq_wgIwsIab)
 - Create several application clones with your touch to it and deploy them (eg: YouTube, Spotify, Amazon, Netflix, etc)
 

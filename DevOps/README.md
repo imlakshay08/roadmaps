@@ -8,14 +8,20 @@
 - [Go tutorial - W3schools](https://www.w3schools.com/go/)
 - [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Complete Golang tutorial - Hitesh Choudhary(Youtube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+- [Go programming - GoLang Course with Bonus Project)](https://youtu.be/un6ZyFkqFKo)
 
 ## Linux Terminal Basics
 
 - [Complete Linux Course](https://www.youtube.com/watch?v=iwolPf6kN-k&feature=youtu.be)
+- [Introduction to Linux – Full Course for Beginners By FreeCodeCamp](https://youtu.be/sWbUDq4S6Y8)
 - [Basic Linux Commands](https://www.youtube.com/watch?v=J2zquYPJbWY)
 - [Linux Tutorial](https://www.youtube.com/watch?v=cBokz0LTizk)
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
+- [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+- [Linux Complete Hands-On Tutorial](https://linuxjourney.com/)
 
 ## Operating System Basics
 
@@ -25,11 +31,13 @@
 - [What is an operating system - Techquickie(Youtube)](https://www.youtube.com/watch?v=pVzRTmdd9j0)
 - [Operating system tutorial - Tutorialspoint](<https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.>)
 - [Operating System - Neso Academy()](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [Operating System Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes)
 
 ## Other Pre-requisites
 
 - [Complete Computer Networks Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - [Complete YAML Course](https://www.youtube.com/watch?v=IA90BTozdow)
+- [YAML Docs](https://yaml.org/spec/1.2.2/)
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
 
 ## Server Management
@@ -38,32 +46,44 @@
 - [Ubuntu Server Guide](https://ubuntu.com/server/docs)
 - [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
 
+## Shell Scripting
+
+- [Shell Scripting for DevOps + Hands on projects](https://www.youtube.com/watch?v=zsajhz2_50g&list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
+- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [Shell Scripting Tutorial | Shell Scripting Crash Course](https://www.youtube.com/watch?v=GtovwKDemnI&t=1658s)
+
 ## Containers
 
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 - Docker
-  - [ Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
+  - [ Docker Tutorial - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
   - [Docker Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
   - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
   - [Docs](https://docs.docker.com/)
+  - [Complete Docker Course - From BEGINNER to PRO! (Learn Containers) - by DevOps Directive](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=3615s)
 - [Build a NodeJS Application With Docker](https://www.youtube.com/watch?v=PsWeSg38XFY&feature=youtu.be)
 
 ## Configuration Management
 
 - [Chef Vs Puppet Vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
-- [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+- [What is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
 - [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 - [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
+- [Getting started with Ansible(Youtube)](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+- [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
 
 ## Container Orchestration
 
 - Kubernetes
-  - [Kubernetes Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=KVBON1lA9N8)
+  - [Kubernetes Tutorial - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=KVBON1lA9N8)
   - [Learn Kubernetes - Civo Academy](http://civo.io/kunal)
-  - [Kubernetes - Tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.html)
+  - [Kubernetes 101 for beginners by Saiyam Pathak](https://www.youtube.com/watch?v=PN3VqbZqmD8&t=7206s)
+  - [Kubernetes - Tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.htm)
   - [Learn Kubernetes in Under 3 Hours - FreeCodeCamp](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
   - [Kubernetes Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=X48VuDVv0do)
+  - [Complete Kubernetes Course - Hitesh Choudhary(Youtube)](https://www.youtube.com/watch?v=7XDeI5fyj3w)
   - [Kubernetes in 5 minutes - VMware(Youtube)](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+  - [Learn Kubernetes with hands-on labs - KubeCampus](https://kubecampus.io/)
 
 ## Infrastructure Provisioning
 
@@ -129,9 +149,18 @@
 - [AWS](https://docs.aws.amazon.com/)
 - [Google Cloud Provider](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
+- [Getting started with Civo - Youtube](https://www.youtube.com/watch?v=mHtCkmshfks)
+- [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [Google Cloud Platform Full Course - Youtube](https://www.youtube.com/watch?v=pTm0iI3_pIQ)
+- [Google Cloud Certified Cloud Associate Cloud Engineer Course - Youtube](https://www.youtube.com/watch?v=jpno8FSqpc8)
+- [Microsoft Certified Azure Fundamentals Certification Course - Youtube](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ## Sample Project Ideas
 
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
 - [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
 - [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
+
+## Devops Books
+
+- [Collection of some DevOps books](https://github.com/rohitg00/DevOps_Books)
